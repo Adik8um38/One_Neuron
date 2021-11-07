@@ -1,5 +1,4 @@
-from utils.model import perceptron
-from utils.all_utils import prepare_data
+import numpy as np
 
 class Perceptron:
   def __init__(self, eta, epochs):
