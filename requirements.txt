@@ -1,0 +1,7 @@
+certifi==2021.10.8
+wincertstore==0.2
+matplotlib
+numpy
+pandas
+joblib
+seaborn
